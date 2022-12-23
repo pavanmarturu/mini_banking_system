@@ -10,9 +10,9 @@ using SQL Database but it can be implemented using directly linking with the liv
  it will automatically gives you the windows asking for the details.
  
  
- # Dependencies 
-  Python 3.10
-  Tkinter 8.6
-  MYSQL 8.0
+ # Dependencies
+ Python 3.10
+ Tkinter 8.6
+ MYSQL 8.0
   
  
