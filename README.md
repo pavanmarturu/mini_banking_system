@@ -9,9 +9,10 @@ using SQL Database but it can be implemented using directly linking with the liv
  in this file i used bank.png image as the intro so download that picture and past the path in main.py to get that image
  it will automatically gives you the windows asking for the details.
  
- #Dependencies
-  PYTHON 
-  SQL
-  TKINTER
+ 
+ # Dependencies 
+  Python 3.10
+  Tkinter 8.6
+  MYSQL 8.0
   
  
